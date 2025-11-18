@@ -34,17 +34,3 @@ app.listen(port, () =>
   console.log(`server is connected to ${port} successfully`)
 );
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
